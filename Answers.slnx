@@ -3,11 +3,13 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="P01-1/P01-1.vcxproj" />
-  <Project Path="P01-2/P01-2.vcxproj" />
-  <Project Path="P02-1/P02-1.vcxproj" />
-  <Project Path="P02-2/P02-2.vcxproj" />
-  <Project Path="P03-1/P03-1.vcxproj" />
-  <Project Path="P03-2/P03-2.vcxproj" />
-  <Project Path="P03-3/P03-3.vcxproj" />
+  <Project Path="P01-1/P01-1.vcxproj" Id="4b87b569-258b-4959-a84b-9520b6861632" />
+  <Project Path="P01-2/P01-2.vcxproj" Id="8bd70599-4942-4889-aad3-9cd0efeb684e" />
+  <Project Path="P02-1/P02-1.vcxproj" Id="a331ac17-6299-4583-8ce7-d8de926ac847" />
+  <Project Path="P02-2/P02-2.vcxproj" Id="07edb4b9-83d3-47f5-8289-5c53ed569ed5" />
+  <Project Path="P03-1/P03-1.vcxproj" Id="a83a72dd-91d4-475a-9954-95af0bd94856" />
+  <Project Path="P03-2/P03-2.vcxproj" Id="f9fd2407-77f4-4e19-b75b-893083eeea7d" />
+  <Project Path="P03-3/P03-3.vcxproj" Id="5d74493f-adef-4f44-928a-987a9668310c" />
+  <Project Path="P04-1/P04-1.vcxproj" Id="d5de8f2a-b81d-4e62-be00-84e882d83467" />
+  <Project Path="P04-2/P04-2.vcxproj" Id="f261d7ef-452d-448d-9ac8-49748071cf5d" />
 </Solution>
