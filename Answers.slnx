@@ -12,4 +12,6 @@
   <Project Path="P03-3/P03-3.vcxproj" Id="5d74493f-adef-4f44-928a-987a9668310c" />
   <Project Path="P04-1/P04-1.vcxproj" Id="d5de8f2a-b81d-4e62-be00-84e882d83467" />
   <Project Path="P04-2/P04-2.vcxproj" Id="f261d7ef-452d-448d-9ac8-49748071cf5d" />
+  <Project Path="P05-1/P05-1.vcxproj" Id="095ee439-08a6-41e1-ad47-93c7d7d95351" />
+  <Project Path="P05-2/P05-2.vcxproj" Id="6287e3aa-984d-4ce3-a7d8-9b7c9af55058" />
 </Solution>
